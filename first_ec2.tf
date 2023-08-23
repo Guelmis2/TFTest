@@ -1,7 +1,4 @@
 provider "aws" {
-#   region     = "us-east-2"
-#   access_key = "AKIAVI233UEHNWWOZWDJ"
-#   secret_key = "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"
 }
 
 resource "aws_instance" "gman_ec2" {
